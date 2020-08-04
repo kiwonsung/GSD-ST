@@ -1,6 +1,6 @@
 Part of the code for the method of Geometric Sequence Decomposition with k-simplexes Transform (GSD-ST)
 
-Contributor: Woong-Hee Lee (poytoopoyto@gmail.com) and Ki Won Sung (sungkw@kth.se)
+Contributors: Woong-Hee Lee (poytoopoyto@gmail.com), Jong-Ho Lee (jongho.lee@ssu.ac.kr) and Ki Won Sung (sungkw@kth.se)
 
 If you use this code, please cite
 * [Woong-Hee Lee, Jong-Ho Lee, Ki Won Sung, Geometric Sequence Decomposition with k-simplexes Transform, arXiv preprint arXiv:1910.14412, 2019.
